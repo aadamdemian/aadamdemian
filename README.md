@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Adam
 #### I am a Programmer and Designer
-![I am Programmer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I started with **Python** and now I'm a big boy in **HTML**
 
