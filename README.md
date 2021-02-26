@@ -1,9 +1,11 @@
-### Hi there 👋, my name is Adam
-#### I am a Programmer and Designer
+# Hi there 👋, my name is Adam
 
-I started with **Python** and now I'm a big boy in **HTML**
+#### I'm from Slovakia, and I do Programming and Design.👨‍💻
 
-Skills: **JS / HTML / CSS**
+## ✨My skills:
+<img src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/103827197/original/cb380c47fe8c75aff569b6afd91769850805b20a/help-you-with-your-html-css-javascript-projects.png' alt='javascript' height='56'> 
+
+<br>
 
 - 🌱 I’m currently learning this [course](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
@@ -11,5 +13,5 @@ Skills: **JS / HTML / CSS**
 
 <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/__aamdmn__/)  
+[<img src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png' alt='instagram' height='50'>](https://www.instagram.com/__aamdmn__/)  
 
