@@ -4,7 +4,9 @@
 
 ## ✨My skills:
 
-<img src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/103827197/original/cb380c47fe8c75aff569b6afd91769850805b20a/help-you-with-your-html-css-javascript-projects.png' alt='javascript' height='56'> 
+- 🖥 **HTML/JS/CSS**
+- 📷 **Adobe Photoshop**
+- 🎥 **Adobe Premier Pro**
 
 
 ## ℹ Info
