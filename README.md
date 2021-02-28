@@ -15,7 +15,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadamdemian&theme=nord&hide=stars,prs&custom_title=aadamdemian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaadamdemian&theme=nord&hide=stars,prs&custom_title=aadamdemian)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
