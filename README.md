@@ -20,5 +20,5 @@
 <br>
 
 ## 🎉 Socials 
-[<img src='https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png' alt='instagram' height='50'>](https://www.instagram.com/__aamdmn__/)  
+[<img src='https://img.icons8.com/material-outlined/24/000000/instagram-new--v2.png' alt='instagram' height='50'>](https://www.instagram.com/__aamdmn__/)  
 
