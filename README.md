@@ -4,7 +4,7 @@
 
 ## ✨My skills:
 
-- 🖥 **HTML/JS/CSS**
+- <img src="https://img.icons8.com/dusk/64/000000/code.png" height="25"> **HTML/JS/CSS**
 - 📷 **Adobe Photoshop**
 - 🎥 **Adobe Premier Pro**
 
